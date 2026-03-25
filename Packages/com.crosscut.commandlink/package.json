@@ -1,0 +1,31 @@
+{
+  "name": "com.crosscut.commandlink",
+  "version": "0.1.0",
+  "displayName": "CrossCut CommandLink",
+  "description": "Deterministic lockstep networking package for Project Crosscut. Unity Transport integration is layered behind runtime contracts so Relay can be added later.",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "dependencies": {
+    "com.unity.entities": "1.4.2",
+    "com.unity.collections": "2.6.2",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.transport": "2.4.0"
+  },
+  "keywords": [
+    "networking",
+    "lockstep",
+    "rts",
+    "deterministic",
+    "ecs"
+  ],
+  "samples": [
+    {
+      "displayName": "Two-Peer Arena",
+      "description": "Minimal host/client/offline sample that demonstrates runtime hooks, deterministic move exchange, and diagnostics.",
+      "path": "Samples~/TwoPeerArena"
+    }
+  ],
+  "author": {
+    "name": "CrossCut"
+  }
+}

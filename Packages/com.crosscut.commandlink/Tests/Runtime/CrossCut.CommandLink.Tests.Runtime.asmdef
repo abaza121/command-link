@@ -1,0 +1,22 @@
+{
+    "name": "CrossCut.CommandLink.Tests.Runtime",
+    "rootNamespace": "CrossCut.CommandLink.Tests",
+    "references": [
+        "CrossCut.CommandLink.Runtime",
+        "CrossCut.CommandLink.Diagnostics.Runtime",
+        "CrossCut.CommandLink.Samples.TwoPeerArena",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

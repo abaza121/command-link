@@ -1,0 +1,17 @@
+{
+  "name": "CrossCut.CommandLink.Samples.TwoPeerArena",
+  "rootNamespace": "CrossCut.CommandLink.Samples.TwoPeerArena",
+  "references": [
+    "CrossCut.CommandLink.Runtime",
+    "CrossCut.CommandLink.Diagnostics.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

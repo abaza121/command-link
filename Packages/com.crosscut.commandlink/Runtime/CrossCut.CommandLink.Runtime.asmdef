@@ -1,0 +1,20 @@
+{
+    "name": "CrossCut.CommandLink.Runtime",
+    "rootNamespace": "CrossCut.CommandLink",
+    "references": [
+        "CrossCut.CommandLink.Diagnostics.Runtime",
+        "Unity.Entities",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "Unity.Networking.Transport"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

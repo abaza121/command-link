@@ -1,0 +1,14 @@
+{
+    "name": "CrossCut.CommandLink.Diagnostics.Runtime",
+    "rootNamespace": "CrossCut.CommandLink.Diagnostics",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

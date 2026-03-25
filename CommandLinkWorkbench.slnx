@@ -1,0 +1,8 @@
+﻿<Solution>
+  <Project Path="CrossCut.CommandLink.Runtime.csproj" />
+  <Project Path="CrossCut.CommandLink.Tests.Runtime.csproj" />
+  <Project Path="CrossCut.CommandLink.Diagnostics.Editor.csproj" />
+  <Project Path="CrossCut.CommandLink.Diagnostics.Runtime.csproj" />
+  <Project Path="CrossCut.CommandLink.Samples.TwoPeerArena.csproj" />
+  <Project Path="CrossCut.CommandLink.Tests.Editor.csproj" />
+</Solution>
