@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "displayName": "CrossCut CommandLink",
   "description": "Deterministic lockstep networking package for Project Crosscut. Unity Transport integration is layered behind runtime contracts so Relay can be added later.",
+  "license": "MIT",
   "unity": "2022.3",
   "unityRelease": "0f1",
   "dependencies": {
